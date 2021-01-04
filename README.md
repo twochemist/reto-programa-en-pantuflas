@@ -36,12 +36,10 @@
 - #Vue. Finish reading "Basic Structure of Vue.js App" + "Directives, Bindings and Reactivity"  
 
 **Next Milestone**
-- #Vue. Complet "Hands-on Vue.js: Build a functional SPA"
+- #Vue. Complete "Hands-on Vue.js: Build a functional SPA"
 
 ---
 ## **Badges**
-
-List of badges challenge #ProgramoEnPantuflas.
 
 Malandriners Premium.
 
