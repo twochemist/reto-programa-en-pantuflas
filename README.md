@@ -2,24 +2,20 @@ challenge #ProgramoEnPantuflas:
 
 ---
 
-**Fecha**: 01/01/2021
+**Date**: 01/01/2021
 
-**Humor**: ☹️😐😀
+**Mood**: ☹️😐😀
 
-**Hitos conseguidos**:
+**Milestone achieve**:
 
-*   Crear el proyecto
-*   Saber aplicar tralili en tralala
+*   Project
 
-**Próximos hitos**
+**Next Milestones**
 
-*   Refactorizar hasta triunfar
+*   Refactorization
 
-## **Tu diario empieza aquí**
+## **challenge #ProgramoEnPantuflas:**
 
-Deja esta línea para no perder la referencia:
-
-Estoy participando en el reto #ProgramaEnPantuflas.
 
 **Date**: 02/01/2021
 
