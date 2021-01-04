@@ -7,7 +7,7 @@
 
 **Milestone achieved**:
 
--Finishing celebrating birthday
+- Finishing celebrating birthday
 
 **Next Milestone**
 - Plan next side-project/s
