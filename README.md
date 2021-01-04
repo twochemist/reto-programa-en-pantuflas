@@ -1,4 +1,4 @@
-El mismo esquema con formato:
+challenge #ProgramoEnPantuflas:
 
 ---
 
@@ -51,15 +51,16 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 **Next Milestone**
 - #Vue. Complet "Hands-on Vue.js: Build a functional SPA"
 
+---
 ## **Badges**
 
-Aquí puedes incorporar la lista de badges que has conseguido en el juego de gamificación del reto #ProgramoEnPantuflas.
+List of badges challenge #ProgramoEnPantuflas.
 
-Solo para malandriners premium.
+Malandriners Premium.
 
 \[WIP\]
 
-## **Diarios públicos**
+## **Public Diaries**
 
 *   [Supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
 *   [Delineas](https://github.com/delineas/programa-en-pantuflas)
