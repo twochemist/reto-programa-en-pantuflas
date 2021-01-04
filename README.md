@@ -1,27 +1,12 @@
-challenge #ProgramoEnPantuflas:
-
----
-
-**Date**: 01/01/2021
-
-**Mood**: ☹️😐😀
-
-**Milestone achieve**:
-
-*   Project
-
-**Next Milestones**
-
-*   Refactorization
-
 ## **challenge #ProgramoEnPantuflas:**
 
 
 **Date**: 02/01/2021
 
-**Mood**: 😀
+**Mood**: ☹️😐😀
 
 **Milestone achieved**:
+
 -Finishing celebrating birthday
 
 **Next Milestone**
