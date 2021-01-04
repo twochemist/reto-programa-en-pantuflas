@@ -24,8 +24,10 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 **Date**: 02/01/2021
 
 **Mood**: 😀
+
 **Milestone achieved**:
 -Finishing celebrating birthday
+
 **Next Milestone**
 - Plan next side-project/s
 
@@ -34,9 +36,11 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 **Date**: 03/01/2021
 
 **Mood**: 😐
+
 **Milestone achieved**:
 - Start side-project "ARTjona-Gallery-Online"
 -#Tailwind implementation of Toolbox
+
 **Next Milestone**
 - Sketch site architecture of "ARTjona"
 
@@ -45,9 +49,11 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 **Date**: 04/01/2021
 
 **Mood**: 😐
+
 **Milestone achieved**:
 -#WRP113
 - #Vue. Finish reading "Basic Structure of Vue.js App" + "Directives, Bindings and Reactivity"  
+
 **Next Milestone**
 - #Vue. Complet "Hands-on Vue.js: Build a functional SPA"
 
