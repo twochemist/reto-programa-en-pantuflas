@@ -39,6 +39,19 @@
 - #Vue. Complete "Hands-on Vue.js: Build a functional SPA"
 
 ---
+​
+**Date**: 09/01/2021
+
+**Mood**: 😐
+
+**Milestone achieved**:
+- Getting data from external API
+- #Vue. Roughly overview about Express.js framework to communicate frontend with the backend.  
+
+**Next Milestone**
+- #Vue. Basic structure of Vue.js app
+
+---
 ## **Badges**
 
 Malandriners Premium.
