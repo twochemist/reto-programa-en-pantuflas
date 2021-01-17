@@ -52,6 +52,19 @@
 - #Vue. Basic structure of Vue.js app
 
 ---
+​
+**Date**: 16/01/2021
+
+**Mood**: 😐
+
+**Milestone achieved**:
+- #Vue. Methods syntax, Instance lifecycle, Hooks 
+- Publish new blog article about EMC 
+
+**Next Milestone**
+- #Vue. Directives, Bindings and Reactivity
+
+---
 ## **Badges**
 
 Malandriners Premium.
