@@ -1,5 +1,5 @@
 ## **challenge #ProgramoEnPantuflas:**
-
+  
 
 **Date**: 02/01/2021
 
@@ -63,6 +63,19 @@
 
 **Next Milestone**
 - #Vue. Directives, Bindings and Reactivity
+
+---
+​
+**Date**: 28/01/2021
+
+**Mood**: 😐
+
+**Milestone achieved**:
+- #Vue. Event handlers, Bindign using v-model, event modifiers 
+- Side-project SPA in Vue+Nuxt for a friend offering online zumba class  
+
+**Next Milestone**
+- Deploy previous SPA on Netlify
 
 ---
 ## **Badges**
