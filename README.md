@@ -94,7 +94,7 @@
 ---
 ## **Badges**
 
-[Badge] https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png
+![alt text](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png)
 
 \[WIP\]
 
