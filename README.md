@@ -1,6 +1,7 @@
 ## **challenge #ProgramoEnPantuflas:**
   
 
+
 **Date**: 02/01/2021
 
 **Mood**: ☹️😐😀
@@ -76,6 +77,19 @@
 
 **Next Milestone**
 - Deploy previous SPA on Netlify
+
+---
+​
+**Date**: 06/02/2021
+
+**Mood**: 😐
+
+**Milestone achieved**:
+- #Sass. Variables, nesting and operators put in practice. Setting up npm to compile Sass  
+- Adapted project using Sass in real world project. CSS architecture. (Desing ...jonasschmedtmann/advanced-css)   
+
+**Next Milestone**
+- Publish the side project on Netlify
 
 ---
 ## **Badges**
