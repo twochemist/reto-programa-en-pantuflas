@@ -92,13 +92,21 @@
 - Publish the side project on Netlify
 
 ---
+​
+**Date**: 20/04/2021
+
+**Mood**: 😐
+
+**Milestone achieved**:
+- #A deep dive into eleventy static site generator
+- Adapted project using Nunjuck as templating language for JavaScript   
+
+**Next Milestone**
+- Publish the side project __Maladriner Links__ on Netlify
+
+---
 ## **Badges**
 
 ![alt text](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png)
 
 \[WIP\]
-
-## **Public Diaries**
-
-*   [Supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
-*   [Delineas](https://github.com/delineas/programa-en-pantuflas)
