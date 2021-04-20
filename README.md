@@ -98,7 +98,7 @@
 **Mood**: 😐
 
 **Milestone achieved**:
-- #A deep dive into eleventy static site generator
+- #Eleventy deep dive into static site generator
 - Adapted project using Nunjuck as templating language for JavaScript   
 
 **Next Milestone**
@@ -108,5 +108,3 @@
 ## **Badges**
 
 ![alt text](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png)
-
-\[WIP\]
